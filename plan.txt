@@ -1,0 +1,23 @@
+Create a directory structure
+Create npm packages and install all dependencies
+ - dependencies
+    - express
+    - ejs, express-ejs-layouts
+ - dev dependencies
+    - nodemon
+Create express server - Create a server.js file
+Git setup and first commit
+Install Laravel mix
+    - setup js and css
+Install Tailwind css
+Create home page using html and css
+    - include tailwind css
+Create cart page
+    - order summary section
+    - empty cart section
+Create order controller and link to server.js file
+Create orders view with table for customers and admin
+Create orders single page with status
+Create login page with route
+Create register page with route
+
